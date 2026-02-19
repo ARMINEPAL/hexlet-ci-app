@@ -1,5 +1,7 @@
 # Example app for CI Hexlet course
 
+[![check-project](https://github.com/ARMINEPAL/hexlet-ci-app/actions/workflows/checkproject.yaml/badge.svg)](https://github.com/ARMINEPAL/hexlet-ci-app/actions/workflows/checkproject.yaml)
+
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
